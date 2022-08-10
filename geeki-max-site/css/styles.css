@@ -1,0 +1,33 @@
+/* css/styles.css */
+
+
+/************************* TAG SELECTORS *************************/
+
+body {
+    background-color:white;
+}
+
+h1 {
+    color: #66bfbf
+}
+
+h3 {
+    color: #66bfbf
+}
+
+hr {
+    border-style:none;
+    border-top-style:dotted;
+    border-color:rgb(196, 215, 231);
+    border-width:5px;
+    width: 5%;
+}
+
+
+/************************* CLASS SELECTORS *************************/
+
+/* Max profile photo :hover effect, different photo */
+
+
+/************************* ID SELECTORS *************************/
+
